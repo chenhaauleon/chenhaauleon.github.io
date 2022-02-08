@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "2022 | 二月小美好"
-subtitle:      "记录自己每天发生的小幸运和小美好"
+subtitle:      ""
 author:        "Haauleon"
 header-style:  text
 catalog:       true
