@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "1 月业余任务"
+title:         "二月业余任务进度"
 subtitle:      ""
 author:        "Haauleon"
 header-style:  text
