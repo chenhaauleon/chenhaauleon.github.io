@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "2022 | 2月业余任务进度"
+title:         "2 月业余任务进度"
 subtitle:      ""
 author:        "Haauleon"
 header-style:  text

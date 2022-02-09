@@ -1,7 +1,7 @@
 ---
 layout:        post
-title:         "2022 | 1月业余任务"
-subtitle:      "记录自己业余小任务和小安排的进度"
+title:         "1 月业余任务"
+subtitle:      ""
 author:        "Haauleon"
 header-style:  text
 catalog:       true
