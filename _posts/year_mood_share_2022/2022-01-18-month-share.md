@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "2022 | 一月小美好"
+title:         "2022 | 1月小美好"
 subtitle:      ""
 author:        "Haauleon"
 header-style:  text
