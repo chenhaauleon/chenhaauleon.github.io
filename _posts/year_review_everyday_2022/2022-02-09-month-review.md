@@ -33,9 +33,14 @@ tags:
     - 职位需求统计
 
 ###### 2022 年 2 月 8 日
-已完成：postman 功能概览列表         
-待完成：postman 功能详细使用
+已完成：Postman 功能概览列表         
+待完成：Postman 功能详细使用
 
 ###### 2022 年 2 月 9 日
-已完成：charles 功能概览列表         
-待完成：charles 功能详细使用
+已完成：Charles 功能概览列表         
+待完成：Charles 功能详细使用
+
+###### 2022 年 2 月 10 日
+已完成：     
+Apifox 联合 Postman 文档     
+postman 功能详细使用
