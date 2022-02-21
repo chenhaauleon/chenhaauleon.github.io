@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "一月生活小美好"
+title:         "一月生活小纪事"
 subtitle:      ""
 author:        "Haauleon"
 header-style:  text
