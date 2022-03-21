@@ -12,7 +12,7 @@ tags:
 ### TODO
 - Linux 必备知识
     - Linux 系统简介与准备
-        - CenteOS 系统的介绍、安装、目录结构等基础内容
+        - CentOS 系统的介绍、安装、目录结构等基础内容
         - 能够自建测试环境
     - Linux 远程工具 Xshell
         - Linux 系统快速入门
