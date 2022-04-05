@@ -1,12 +1,12 @@
 ---
 layout:        post
-title:         "三月生活小纪事"
+title:         "生活日志 @三月"
 subtitle:      ""
 author:        "Haauleon"
 header-style:  text
 catalog:       true
 tags:
-    - 慕斯蛋糕
+    - 一口西多
 ---
 
 ###### 2022 年 3 月 1 日

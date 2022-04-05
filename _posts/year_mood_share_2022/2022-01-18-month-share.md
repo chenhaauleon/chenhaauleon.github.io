@@ -1,12 +1,12 @@
 ---
 layout:        post
-title:         "一月生活小纪事"
+title:         "生活日志 @一月"
 subtitle:      ""
 author:        "Haauleon"
 header-style:  text
 catalog:       true
 tags:
-    - 慕斯蛋糕
+    - 一口西多
 ---
 
 ###### 2022 年 1 月 18 日
