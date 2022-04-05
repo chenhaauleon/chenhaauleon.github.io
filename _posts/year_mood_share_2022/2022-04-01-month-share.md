@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "生活日志 @四月"
-subtitle:      "一个高度近视的路痴准备驾考的日子 ing..."
+subtitle:      "记录中 ..."
 author:        "Haauleon"
 header-style:  text
 catalog:       true
