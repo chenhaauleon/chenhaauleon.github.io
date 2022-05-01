@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "生活日志 @四月"
-subtitle:      "记录中 ..."
+subtitle:      "整个月都在备战科目一驾考，还是很顺利的"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
