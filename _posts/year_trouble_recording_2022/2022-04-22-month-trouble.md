@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "吾日三省吾身 @四月"
-subtitle:      "记录中 ..."
+subtitle:      "无法解决的情绪控制问题"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
