@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "生活日志 @五月"
-subtitle:      "记录中 ..."
+subtitle:      "慢慢地自我觉醒，慢慢地知道自己想要什么"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
