@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "生活日志 @六月"
-subtitle:      "记录中 ..."
+subtitle:      "再也淡定不了了，行动大于感受"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
