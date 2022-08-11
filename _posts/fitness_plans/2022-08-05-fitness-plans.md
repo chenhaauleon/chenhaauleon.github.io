@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "八月健身计划"
-subtitle:      "三分化初级"
+subtitle:      "三分化训练--第1个月计划"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
