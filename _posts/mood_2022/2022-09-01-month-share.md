@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "生活日志 @九月"
-subtitle:      "记录中..."
+subtitle:      "这个月的主题就是自律，并且相信自己"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
