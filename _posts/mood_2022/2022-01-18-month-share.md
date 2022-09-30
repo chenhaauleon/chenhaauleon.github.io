@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "生活日志 @一月"
-subtitle:      "成功get了换水这个技能"
+subtitle:      "我已经成功get了换水这个技能"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
