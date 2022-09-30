@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "生活日志 @一月"
-subtitle:      "南屏疫情因此上班一路畅通，还成功get了换水这个技能"
+subtitle:      "成功get了换水这个技能"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
