@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "手写美好 @五月"
+title:         "日常小美好 @五月"
 subtitle:      "慢慢地自我觉醒，想清楚自己想要的是什么，剩下的就边走边看吧"
 author:        "Haauleon"
 header-style:  text

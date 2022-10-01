@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "手写美好 @三月"
+title:         "日常小美好 @三月"
 subtitle:      "以为能跟长跑撞个满怀，结果下了半个月的雨"
 author:        "Haauleon"
 header-style:  text

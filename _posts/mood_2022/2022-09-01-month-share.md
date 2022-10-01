@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "手写美好 @九月"
+title:         "日常小美好 @九月"
 subtitle:      "努力挖掘自己喜欢的事物，并且相信自己是能够持续锻炼的"
 author:        "Haauleon"
 header-style:  text
