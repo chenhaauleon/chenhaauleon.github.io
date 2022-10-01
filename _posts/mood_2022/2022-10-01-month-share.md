@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "生活日志 @十月"
+title:         "手写美好 @十月"
 subtitle:      "记录中..."
 author:        "Haauleon"
 header-style:  text

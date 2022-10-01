@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "生活日志 @一月"
+title:         "手写美好 @一月"
 subtitle:      "我已经成功get了换水这个技能"
 author:        "Haauleon"
 header-style:  text

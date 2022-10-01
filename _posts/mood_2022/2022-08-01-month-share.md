@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "生活日志 @八月"
+title:         "手写美好 @八月"
 subtitle:      "运动半个月，睡眠质量提升了不只一点点，自己也成长了很多"
 author:        "Haauleon"
 header-style:  text

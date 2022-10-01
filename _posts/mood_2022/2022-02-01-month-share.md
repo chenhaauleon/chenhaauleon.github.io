@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "生活日志 @二月"
+title:         "手写美好 @二月"
 subtitle:      "成功把抖音刷成缅北电诈、俄乌战争双频道"
 author:        "Haauleon"
 header-style:  text

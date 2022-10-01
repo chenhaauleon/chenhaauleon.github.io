@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "生活日志 @六月"
+title:         "手写美好 @六月"
 subtitle:      "再也淡定不了了，行动大于感受"
 author:        "Haauleon"
 header-style:  text
