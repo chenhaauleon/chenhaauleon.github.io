@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @七月"
-subtitle:      "一整个都沉浸在科二的练习中"
+subtitle:      "一整个都沉浸在科二的练习中，跑了N次外围原来开车并不难"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
