@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @十月"
-subtitle:      "滑板，健身不停歇，跑步里程80km"
+subtitle:      "滑板，健身，跑步里程80km"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
