@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @九月"
-subtitle:      "努力挖掘喜欢的事物并持续锻炼，科二满分一把过"
+subtitle:      "努力挖掘喜欢的事物并持续锻炼，肯定能行"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
