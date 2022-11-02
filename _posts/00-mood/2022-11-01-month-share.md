@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @十一月"
-subtitle:      "要加油哦，不要难过太久，该准备去认识新的事物和人了喔"
+subtitle:      "要加油哦，不要难过太久，该准备去认识新的事物和人了"
 author:        "Haauleon"
 header-style:  text
 catalog:       true
