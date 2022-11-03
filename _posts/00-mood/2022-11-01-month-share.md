@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @十一月"
-subtitle:      "要加油哦，不要难过太久，该准备去认识新的事物和人了"
+subtitle:      "就让电动滑板载着我去海边兜风吧，会有新发现的"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
