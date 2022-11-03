@@ -3,10 +3,10 @@ layout:        post
 title:         "日常小美好 @三月"
 subtitle:      "以为能跟长跑撞个满怀，结果下了半个月的雨"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-mood/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 蓝色妖姬
+    - 星辰花
 ---
 
 ###### 2022 年 3 月 1 日

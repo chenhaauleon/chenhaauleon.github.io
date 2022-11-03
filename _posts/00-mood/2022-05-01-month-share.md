@@ -3,10 +3,10 @@ layout:        post
 title:         "日常小美好 @五月"
 subtitle:      "想清楚自己想要的是什么，剩下的就边走边看吧"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-mood/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 蓝色妖姬
+    - 星辰花
 ---
 
 ###### 2022 年 5 月 1 日

@@ -3,10 +3,10 @@ layout:        post
 title:         "日常小美好 @二月"
 subtitle:      "成功把抖音刷成缅北电诈、俄乌战争双频道"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-mood/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 蓝色妖姬
+    - 星辰花
 ---
 
 ###### 2022 年 2 月 1 日

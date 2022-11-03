@@ -3,10 +3,10 @@ layout:        post
 title:         "日常小美好 @十月"
 subtitle:      "跳舞，剪辑，滑板，健身，发明黑暗料理，跑步里程80km"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-mood/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 蓝色妖姬
+    - 星辰花
 ---
 
 ###### 2022 年 10 月 1 日

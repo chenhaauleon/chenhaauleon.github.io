@@ -3,10 +3,10 @@ layout:        post
 title:         "日常小美好 @八月"
 subtitle:      "运动半个月，睡眠质量提升了不只一点点，自己也成长了很多"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-mood/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 蓝色妖姬
+    - 星辰花
 ---
 
 ###### 2022 年 8 月 1 日

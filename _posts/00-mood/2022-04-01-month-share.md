@@ -3,10 +3,10 @@ layout:        post
 title:         "日常小美好 @四月"
 subtitle:      "备战科目一驾考，还是很顺利的"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-mood/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 蓝色妖姬
+    - 星辰花
 ---
 
 ###### 2022 年 4 月 1 日

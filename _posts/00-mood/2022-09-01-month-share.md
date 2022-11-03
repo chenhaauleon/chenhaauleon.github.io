@@ -3,10 +3,10 @@ layout:        post
 title:         "日常小美好 @九月"
 subtitle:      "努力挖掘喜欢的事物并持续锻炼，肯定能行，相信自己"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-mood/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 蓝色妖姬
+    - 星辰花
 ---
 
 ###### 2022 年 9 月 1 日
