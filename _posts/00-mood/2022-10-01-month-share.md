@@ -6,7 +6,7 @@ author:        "Haauleon"
 header-style:  text
 catalog:       true
 tags:
-    - 一口西多
+    - 蓝色妖姬
 ---
 
 ###### 2022 年 10 月 1 日
