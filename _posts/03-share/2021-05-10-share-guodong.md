@@ -4,9 +4,10 @@ title:         "百宝箱 | 低脂魔芋果冻"
 subtitle:      "下午上班解饿必备，低脂吃不胖"
 date:          2021-05-10
 author:        "Haauleon"
-header-style:  text
+header-img:    "img/in-post/post-share/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 百宝箱
+    - 粉红色山茶花
 ---
 
 &emsp;&emsp;工作日，大部分时间都耗在下午上班这里，所以老是一到下午三点半之后就开始饿得慌，是真的饿。但是楼下的 7仔 卖的零食热量又太高了，饼干太热气了不好吃，吃了还长痘，其他的都是一些辣条，吃多了也不好，一上火又得去买凉茶，但我这种体质喝不得凉茶。        

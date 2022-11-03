@@ -4,10 +4,10 @@ title:         "百宝箱 | 美瞳"
 subtitle:      "终于找到了适合自己的颜色"
 date:          2021-04-19
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-share/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 百宝箱
+    - 粉红色山茶花
 ---
 
 ## 自我分析

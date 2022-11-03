@@ -4,9 +4,10 @@ title:         "百宝箱 | 棉森化妆棉"
 subtitle:      "可拉伸，用于敷脸，夏季湿敷必备"
 date:          2021-05-10
 author:        "Haauleon"
-header-style:  text
+header-img:    "img/in-post/post-share/bg.jpeg"
+header-mask:   0.4
 tags:
-    - 百宝箱
+    - 粉红色山茶花
 ---
 
 &emsp;&emsp;我的脸容易过敏，一到夏天，敷脸不能停，几乎每天都要敷脸。所以，用的化妆棉要可以拉伸，要省水，还要省钱。用的最多的是棉森的化妆棉片，一盒 205 张。挺好用的，敷一次脸用五张，爽歪歪，价格美丽，才 15 块钱，已经回购了 4 次了，爱死了。       
