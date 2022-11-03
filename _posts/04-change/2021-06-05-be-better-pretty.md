@@ -4,10 +4,10 @@ title:         "补水 | 水光针 · 第三次"
 subtitle:      "打完水光后的第一天早上"
 date:          2021-06-05
 author:        "Haauleon"
-header-img:    "img/in-post/post-pretty/2021-05-09-be-better-pretty-bg.jpg"
+header-img:    "img/in-post/post-change/bg.jpeg"
 header-mask:   0.4
 tags:
-    - 手擂芝麻糊
+    - 深红蔷薇
 ---
 
 &emsp;&emsp;继上次打完磁波后，这是今年第三次打水光了。水光针我买的是菲洛嘉的，是实打实的在脸上扎针。像我这种痛觉很明显的人，以前生病去医院一说到要打针就要跑路了，没想到自己打了三次水光了。这痛的实在没法形容了，整个过程我都是握紧拳头，每扎一针我就心里数着，大概一共扎了 200 针上下，太难熬了这个过程，更别说去整容开刀了，真没这个胆，见到手术刀见到针头见到血我都吓晕。          

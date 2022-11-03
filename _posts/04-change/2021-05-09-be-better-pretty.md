@@ -4,10 +4,10 @@ title:         "抗衰 | 磁波内雕 · 第一次"
 subtitle:      "做完项目后的第一天"
 date:          2021-05-09
 author:        "Haauleon"
-header-img:    "img/in-post/post-pretty/2021-05-09-be-better-pretty-bg.jpg"
+header-img:    "img/in-post/post-change/bg.jpeg"
 header-mask:   0.4
 tags:
-    - 手擂芝麻糊
+    - 深红蔷薇
 ---
 
 &emsp;&emsp;每个人的衰老速度不一样，我比较特殊，属于早衰的那种，也就是老的很快。25 岁这个年纪，别人还是满脸胶原蛋白，我就已经出现苹果肌下垂和八字纹。挺痛苦的，我真的很怕老，害怕变得又老又丑。我昨晚跟美容院的老师沟通了一番，还是决定早点启动抗衰项目比较好。不然，年龄越大，抗衰的效果就没年纪轻的好。所以说，年龄真的是一个坎，越早开始抗衰，以后付出的成本就越低。            
