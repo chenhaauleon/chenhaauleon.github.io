@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "电动滑板跟海风来场约会"
-subtitle:      "美好的时光那么多，带上电动滑板去海边兜风一定很不错"
+subtitle:      "美好的时光那么多，带电动滑板去海边兜风一定很不错"
 author:        "Haauleon"
 header-img:    "img/in-post/post-travel/bg.jpeg"
 header-mask:   0.4
