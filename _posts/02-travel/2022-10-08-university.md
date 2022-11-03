@@ -3,8 +3,8 @@ layout:        post
 title:         "记忆中的大学之旅"
 subtitle:      "毕业这么久了，总是要回去看一看走一走吧"
 author:        "Haauleon"
-header-style:  text
-catalog:       true
+header-img:    "img/in-post/post-travel/bg.jpeg"
+header-mask:   0.4
 tags:
     - 鸢尾爱丽斯
 ---
