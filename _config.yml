@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "记录日常，记录生活，记录自己 <br> Record daily life and myself."
+sidebar-about-description: "人要么庸俗，要么孤独 <br> People are either vulgar or lonely."
 sidebar-avatar: /img/avatar-haauleon-ny.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
