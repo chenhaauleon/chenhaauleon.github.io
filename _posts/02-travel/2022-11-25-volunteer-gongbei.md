@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "香洲义工 × 拱北义工岗"
+title:         "义工活动 × 拱北义工岗"
 subtitle:      "做义工可以帮助很多游客，让自己的内心获得更多能量"
 author:        "Haauleon"
 header-img:    "img/in-post/post-travel/bg.jpeg"
