@@ -1,7 +1,7 @@
 ---
 layout:        post
-title:         "夜景拍摄 × 白石桥"
-subtitle:      "今日新发现，白石桥值得拥有姓名"
+title:         "夜拍 × 白石桥"
+subtitle:      "今日新发现，白石桥的专属夜景值得拥有姓名"
 author:        "Haauleon"
 header-img:    "img/in-post/post-travel/bg.jpeg"
 header-mask:   0.4

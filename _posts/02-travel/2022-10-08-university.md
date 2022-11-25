@@ -1,7 +1,7 @@
 ---
 layout:        post
-title:         "记忆中的大学之旅"
-subtitle:      "毕业这么久了，总是要回去看一看走一走吧"
+title:         "旅行 × 记忆中的大学"
+subtitle:      "当然要跟大学最好的朋友欢欢儿一起回去兜个几圈"
 author:        "Haauleon"
 header-img:    "img/in-post/post-travel/bg.jpeg"
 header-mask:   0.4
