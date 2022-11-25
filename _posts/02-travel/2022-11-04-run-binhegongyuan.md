@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "跑步 × 前河东路滨河公园"
+title:         "扫街 × 前河东路滨河公园"
 subtitle:      "不要错过白天和夜晚的白石桥，说不定还会偶遇可爱的狗子"
 author:        "Haauleon"
 header-img:    "img/in-post/post-travel/bg.jpeg"
