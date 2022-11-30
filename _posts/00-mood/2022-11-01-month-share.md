@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @十一月"
-subtitle:      "就让电动滑板载着我去海边兜风吧，会有新发现的"
+subtitle:      "穿上自己的鞋子去周围走走，兜一袋子的快乐回来"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
