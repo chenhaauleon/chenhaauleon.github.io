@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @十二月"
-subtitle:      "学习力爆棚的十二月，过得很充实"
+subtitle:      "学习力和生产力爆棚的十二月，过得很充实，完整"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
