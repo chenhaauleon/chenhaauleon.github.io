@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @一月"
-subtitle:      "记录中......"
+subtitle:      "感觉自己对这个社会开始有点改观，好好爱自己"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
