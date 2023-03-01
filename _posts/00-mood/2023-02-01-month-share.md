@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @二月"
-subtitle:      "记录中......"
+subtitle:      "健身和跳舞机都挡不住自己胖了十斤，尴尬"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
