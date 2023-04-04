@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @三月"
-subtitle:      "记录中......"
+subtitle:      "顺利搬家，还拿到了驾照，嘻嘻~"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
