@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @四月"
-subtitle:      "第一次见家长的体验还不错，嘻嘻"
+subtitle:      "第一次见家长的体验还不错，还挺期待的"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
