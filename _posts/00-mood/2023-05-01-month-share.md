@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @五月"
-subtitle:      "近日新发现，豆瓣酱+蒜蓉辣椒酱炒啥都好吃"
+subtitle:      "新发现，豆瓣酱+蒜蓉辣椒酱炒啥都好吃"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
