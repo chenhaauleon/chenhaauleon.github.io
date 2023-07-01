@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @六月"
-subtitle:      "记录中..."
+subtitle:      "病了大半个月，但捞到了好玩的好吃的"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
