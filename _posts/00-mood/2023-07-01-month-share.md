@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @七月"
-subtitle:      "记录中..."
+subtitle:      "游戏机来温暖人间了，夏天还得是跳舞最香"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
