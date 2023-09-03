@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @八月"
-subtitle:      "记录中..."
+subtitle:      "假装共享弟弟的暑假哈哈哈哈哈哈哈感觉还行"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
