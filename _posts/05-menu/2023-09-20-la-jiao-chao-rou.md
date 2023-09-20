@@ -3,7 +3,7 @@ layout:        post
 title:         "爱吃辣椒的猪"
 subtitle:      "推荐指数：★★★★☆"
 author:        "Haauleon"
-header-img:    "img/in-post/post-mood/bg.jpeg"
+header-img:    "img/in-post/post-menu/bg.jpg"
 header-mask:   0.4
 tags:
     - 今天吃什么
