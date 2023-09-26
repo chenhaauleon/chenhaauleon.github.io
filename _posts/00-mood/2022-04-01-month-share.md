@@ -6,7 +6,7 @@ author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
 tags:
-    - 星辰花
+    - 人生手册
 ---
 
 ###### 2022 年 4 月 1 日
