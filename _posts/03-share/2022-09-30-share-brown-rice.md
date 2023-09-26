@@ -6,7 +6,7 @@ author:        "Haauleon"
 header-img:    "img/in-post/post-share/bg.jpeg"
 header-mask:   0.4
 tags:
-    - 粉红色山茶花
+    - 百宝箱
 ---
 
 &emsp;&emsp;昔日印象的糙米口感挺好的，煮出来的米饭比较香，有点小甜，超级好吃的，每次都是煮饭然后拌着去皮鸡腿吃，加点酱料，完美。     

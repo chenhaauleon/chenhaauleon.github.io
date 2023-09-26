@@ -6,7 +6,7 @@ author:        "Haauleon"
 header-img:    "img/in-post/post-share/bg.jpeg"
 header-mask:   0.4
 tags:
-    - 粉红色山茶花
+    - 百宝箱
 ---
 
 &emsp;&emsp;之前看一个博主推荐的，很大一罐，因为现在剪了短发，所以用量也少了，可以用很久哈哈哈哈哈哈哈哈好开心。洗完头用发膜，会觉得头发很顺滑不干枯不打叉，摸着很舒服。            

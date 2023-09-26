@@ -7,7 +7,7 @@ author:        "Haauleon"
 header-img:    "img/in-post/post-share/bg.jpeg"
 header-mask:   0.4
 tags:
-    - 粉红色山茶花
+    - 百宝箱
 ---
 
 &emsp;&emsp;怎么形容这款洗脸巾呢，我买的是软包的，很萌的包装。一包可以用一个月左右，主要是用来洗脸，或者洗完脸后用来擦脸，蛮舒服的，没有什么毛屑，湿水后会膨一点，洗个脸一张就够了，不够就来两张呗。       
