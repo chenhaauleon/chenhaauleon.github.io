@@ -6,7 +6,7 @@ author:        "Haauleon"
 header-img:    "img/in-post/post-travel/bg.jpeg"
 header-mask:   0.4
 tags:
-    - 鸢尾爱丽斯
+    - 出发吧
 ---
 
 ### 活动
