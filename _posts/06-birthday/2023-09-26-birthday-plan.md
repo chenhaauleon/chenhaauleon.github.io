@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "2023 生日计划"
-subtitle:      "(730+36+882-81*19+74+39+12-97-26+85)/7 岁"
+subtitle:      ""
 author:        "Haauleon"
 header-img:    "img/in-post/post-birthday/bg.jpg"
 header-mask:   0.4
