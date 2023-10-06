@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @九月"
-subtitle:      "记录中..."
+subtitle:      "度过了这几年来最开心的一次生日"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
