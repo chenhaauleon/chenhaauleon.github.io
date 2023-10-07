@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @九月"
-subtitle:      "整月都在等待中秋国庆的到来哈哈哈哈哈"
+subtitle:      "感觉自己整个九月都在等待中秋国庆的到来"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
