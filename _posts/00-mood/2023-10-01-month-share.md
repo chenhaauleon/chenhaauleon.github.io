@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @十月"
-subtitle:      "记录中..."
+subtitle:      "这个月又开始了新一轮的减脂计划，截止月底共减重3.7kg"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
