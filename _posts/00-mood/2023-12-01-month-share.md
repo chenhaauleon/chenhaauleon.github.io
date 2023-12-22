@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @十二月"
-subtitle:      "记录中..."
+subtitle:      "一旦接受别人对自己的评价，就容易被人牵着鼻子走，干脆只听自己的声音"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
@@ -73,7 +73,7 @@ tags:
 &emsp;&emsp;周四了，感觉这周过得太快了，很快就跨年了，感觉2023还没叫顺口，2024就要来了。
 
 ###### 2023 年 12 月 22 日
-&emsp;&emsp;
+&emsp;&emsp;早上跟巴士司机赛跑，绿灯一亮，我加速往前冲，终于终于早他一点点，我上了个车，周五没迟到真的是很开心哈哈哈哈，可能还是因为对满勤有强迫症吧。
 
 ###### 2023 年 12 月 23 日
 &emsp;&emsp;
