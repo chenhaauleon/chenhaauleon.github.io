@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @一月"
-subtitle:      "记录中..."
+subtitle:      "心心念念的小电动终于开上了，果然会溜车，已弃"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
