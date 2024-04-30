@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @四月"
-subtitle:      "记录中..."
+subtitle:      "在海边的草坪上躺着，吹着海风，好舒服啊，虚度光阴也不错"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
@@ -97,4 +97,4 @@ tags:
 &emsp;&emsp;放假前的倒数第二天班，都坐不住了，太难熬了，打算做做旅游攻略，今天好多领导都不在，真是爽啊。
 
 ###### 2024 年 4 月 30 日
-&emsp;&emsp;
+&emsp;&emsp;放假前的最后一天，要准备好东西啥啥啥的，公司五一期间断网，等同于五一基本不会有人找，还是挺好的，然后五一回来后又开始忙活了，太累啦。
