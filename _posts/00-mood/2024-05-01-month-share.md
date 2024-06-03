@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @五月"
-subtitle:      "记录中..."
+subtitle:      "这个月过得好惬意，庆余年2上线了，还找到了好喝的芝士芒果"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
@@ -100,4 +100,4 @@ tags:
 &emsp;&emsp;今早差点以为自己没办法讲话了，太难了，感冒咳嗽太难受了，不能再吃热气的东西了，但每次病好之后就忘记了，果然是好了伤疤忘了疼，真难受~
 
 ###### 2024 年 5 月 31 日
-&emsp;&emsp;
+&emsp;&emsp;这个月的最后一天班，终于坚持到最后一天了，打完几天的卡就可以有全勤了，周末愉快。
