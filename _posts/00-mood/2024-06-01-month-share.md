@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @六月"
-subtitle:      "记录中..."
+subtitle:      "又想跑路了，想干点轻体力活"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
@@ -94,7 +94,7 @@ tags:
 &emsp;&emsp;感觉这周过得特别累，一上班，就感觉全世界都需要我，真的好累好累，上班后都没有精气神了，这个钱赚的亏。
 
 ###### 2024 年 6 月 29 日
-&emsp;&emsp;
+&emsp;&emsp;下午踩了单车沿着九州大道那边一直去到了海滨公园，还去了城市阳台里面兜了兜，晚上回来的时候吃了个水煮鱼一直肚子不舒服，太难了。
 
 ###### 2024 年 6 月 30 日
-&emsp;&emsp;
+&emsp;&emsp;今天踩单车去了柠溪，感觉只是隔了个隧道的距离，拱北和柠溪的生活差别好大，太神奇了。
