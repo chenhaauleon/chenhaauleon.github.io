@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @八月"
-subtitle:      "想逃离职场的念头越来越强烈，严重影响了我的生活，这该死的责任心"
+subtitle:      "想做一个生活用品管理系统，我太喜欢囤货了，便宜的就买买买也是有毛病"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
