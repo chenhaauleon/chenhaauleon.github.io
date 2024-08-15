@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @六月"
-subtitle:      "又想跑路了，想干点轻体力活"
+subtitle:      "坐我旁边的松弛感同事也跑路了，希望下一个人不要卷我"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
