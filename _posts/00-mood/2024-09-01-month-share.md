@@ -1,6 +1,6 @@
 ---
 layout:        post
-title:         "日常小美好 @久月"
+title:         "日常小美好 @九月"
 subtitle:      "记录中..."
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
