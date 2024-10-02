@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         "日常小美好 @九月"
-subtitle:      "记录中..."
+subtitle:      "好像就是没有一个很好的办法去平衡工作和生活，大家都如此，暂时无解"
 author:        "Haauleon"
 header-img:    "img/in-post/post-mood/bg.jpeg"
 header-mask:   0.4
